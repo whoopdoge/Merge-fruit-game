@@ -1,0 +1,19 @@
+{
+  "name": "Merge Fruits",
+  "short_name": "Merge Fruits",
+  "description": "A physics-based fruit merging puzzle game",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#f8f4e3",
+  "theme_color": "#f8f4e3",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Ccircle cx='256' cy='256' r='256' fill='%23f44336'/%3E%3Ctext x='256' y='296' font-size='200' text-anchor='middle' fill='white' font-family='Arial'%3E🍎%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
+
